@@ -1,0 +1,201 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Severall apparitions seene in the ayre, at the Hague in Holland, upon the 21/31 day of May last past 1646, about one of the clocke in the afternoone. Viz. [brace] A lyon and a dragon fighting. A king with three crownes on his head, &amp;c. A navie or fleet of ships. A man on horsebacke shooting himself thorow. Two troopes of horse fighting, &amp;c. A multitude of people appeared, some with heads and some without heads. Being verified by letters sent to divers members of the Hon: House of Commons, and translated out of the Dutch copie. Whereunto is annexed the severall apparitions seene in the counties of Cambridge, Suffolke, and Norfolke, in and upon the same 21 day of May last past (as aforesaid) in the afternoone, 1646. This is licensed and published according to order.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92969</idno>
+            <idno type="STC">Wing S2750</idno>
+            <idno type="STC">Thomason E340_33</idno>
+            <idno type="STC">ESTC R200890</idno>
+            <idno type="EEBO-CITATION">99861514</idno>
+            <idno type="PROQUEST">99861514</idno>
+            <idno type="VID">113651</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92969)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113651)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 55:E340[33])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Severall apparitions seene in the ayre, at the Hague in Holland, upon the 21/31 day of May last past 1646, about one of the clocke in the afternoone. Viz. [brace] A lyon and a dragon fighting. A king with three crownes on his head, &amp;c. A navie or fleet of ships. A man on horsebacke shooting himself thorow. Two troopes of horse fighting, &amp;c. A multitude of people appeared, some with heads and some without heads. Being verified by letters sent to divers members of the Hon: House of Commons, and translated out of the Dutch copie. Whereunto is annexed the severall apparitions seene in the counties of Cambridge, Suffolke, and Norfolke, in and upon the same 21 day of May last past (as aforesaid) in the afternoone, 1646. This is licensed and published according to order.</title>
+               </titleStmt>
+               <extent>[2], 5, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by T. Forcet, dwelling in Old Fish street, in Heydon-court,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Includes (pages 4-5) an abridged version of: Signes from heaven: or severall apparitions seene and heard in the ayre, in the counties of Cambridge and Norfolke, on the 21 day of May last past in the afternoone, 1646 (Wing S3778).</note>
+                  <note>Annotation on Thomason copy: "June 18th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Visions --  Early works to 1800.</term>
+               <term>Warnings --  Early works to 1800.</term>
+               <term>Curiosities and wonders --  Netherlands --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-01</date>
+            <label>Kate Allen</label>Sampled and proofread</change>
+         <change>
+            <date>2014-01</date>
+            <label>Kate Allen</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:113651:1" rendition="simple:additions"/>
+            <p>SEVERALL APPARITIONS Seene in the Ayre, at the HAGVE in <hi>Holland,</hi> upon the 21/3<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> day of <hi>May</hi> laſt paſt 1646, about one of the clocke in the Afternoone.</p>
+            <p>Viz.
+<list>
+                  <item>
+                     <hi>A Lyon and a Dragon fighting.</hi>
+                  </item>
+                  <item>
+                     <hi>A King wi<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>h three Crownes on his head, &amp;c.</hi>
+                  </item>
+                  <item>
+                     <hi>A Navie or Fleet of Ships.</hi>
+                  </item>
+                  <item>
+                     <hi>A man on Horſbacke ſhooting himſelfe thorow.</hi>
+                  </item>
+                  <item>
+                     <hi>Two troopes of Horſe fighting, &amp;c.</hi>
+                  </item>
+                  <item>
+                     <hi>A multitude of people appeared, ſome with heads and ſome without heads.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>Being verified by Letters ſent to divers Mem<g ref="char:EOLhyphen"/>bers of the Hon: Houſe of Commons, and tranſlated out of the Dutch Copie.</p>
+            <p>Whereunto i<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> annexed the ſeverall Apparitions ſeene in the Coun<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ies of <hi>Cambridge, Suffolke,</hi> and <hi>Norfolke,</hi> in and upon the ſame 21 day of <hi>May</hi> laſt paſt (as aforeſaid) in the Afternoone, 1646.</p>
+            <p>
+               <hi>This is Licenſed and publiſhed according to Order.</hi>
+            </p>
+            <p>LONDON, Printed by T. FORCET, dwelling in <hi>Old Fiſh ſtreet,</hi> in <hi>Heydon</hi>-court. 1646.</p>
+         </div>
+      </front>
+      <body>
+         <div type="part">
+            <pb facs="tcp:113651:2"/>
+            <pb n="1" facs="tcp:113651:2"/>
+            <head>Signes from Heaven, to warne and awaken the Eaſtern Aſſociation, with the Southerne parts of the Kingdome.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">I</seg>Ncredulity hath alwayes been the forerunner of miſery ever ſince the Creation; the old World would not be warned by</hi> Noah's <hi>building the Arke untill the flood came,</hi> Pharoah <hi>would not be warned by Gods Judgements till hee was ſwal<g ref="char:EOLhyphen"/>lowed up of the</hi> Red-Sea; <hi>nay, as</hi> Abraham, <hi>ſaid in the p<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rable to</hi> Dives, <hi>ſhould one ariſe from the dead yet would they not beleeve; therefore becauſe theſe warnings would not ſerve; the Lord, who is ſlow to wrath and of much mercy, gave ſignes from Heaven unto the Iewes, to forewarn them of their approaching deſtruction, but they regarded it not. The Blazing</hi> Star <hi>ſeen in our Horizon ſo many yeares ago, which
+<pb n="2" facs="tcp:113651:3"/>began towards</hi> Germany, <hi>fetcht its compaſse to</hi> Ire<g ref="char:EOLhyphen"/>land, <hi>and whoſe blazing buſh taile hung over</hi> Eng<g ref="char:EOLhyphen"/>land, <hi>was but a nine dayes wonder, although theſe Countries hath ſince found the effects thereof, the Almighty divert his Iudgements from u<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> if it be his will, which we may juſtly feare hangeth over our heads, by reaſon of our continuall crying ſinnes, not<g ref="char:EOLhyphen"/>withſtanding the many tokens of his anger ſhewed un<g ref="char:EOLhyphen"/>to us by ſtrange and fearfull Apparitions ſeen in the Ayre (the</hi> 21 <hi>of May laſt paſt) in many parts, both in our own Kingdome of</hi> England, <hi>and at the</hi> Hague, <hi>in</hi> Holland, <hi>by many hundreds of beholders, which thus appeared unto them.</hi>
+            </p>
+            <p>VPon the one and twentieth day of <hi>May</hi> laſt in the afternoon, in this yeere 1646, there were very ſtrange ſights ſeen, and unwonted ſounds heard in the Ayre, in ſeverall places of this King<g ref="char:EOLhyphen"/>dome, as alſo at the <hi>Hague</hi> in <hi>Holland</hi> upon the ſame day as followeth.</p>
+            <p>Firſt; came a little round thing about the big<g ref="char:EOLhyphen"/>neſſe of a Table or bord, like unto gray Paper: and without it was ſeene the likeneſſe of a Lyon and a Dragon, which furiouſly fought together, which Dragon after a while did ſpit fire furiouſly, but was overcome by the Lyon: and yet the Lion continued in ſight.</p>
+            <p n="2">2. Appeared by the Lyon a multitude of ſoul<g ref="char:EOLhyphen"/>diers, with another Dragon likewiſe, with a multitude of Souldiers both foot and horſe: and before every Troop a Trumpeter, which we ſaw
+<pb n="3" facs="tcp:113651:3"/>perfectly ſet the Trumpets to their mouths, and ſo began the Troops to fight one againſt another in great fury: ſo that we did not know who had the better, but the people vaniſhed away, and the Ly<g ref="char:EOLhyphen"/>on and the Dragon continued ſtill in fight.</p>
+            <p n="3">3. There appeared alſo a King with three Crownes on his head, ſitting upon a Kingly throne with a great company of people about his Throne, and they vaniſhed away immediately: but the Ly<g ref="char:EOLhyphen"/>on and the Dragon aboad ſtill in fight.</p>
+            <p n="4">4. There appeared alſo a number of peoples head, and one great head amongſt them: and a multitude of bodies without heads, which vaniſh<g ref="char:EOLhyphen"/>ed away, yet the Lyon and the Dragon aboad as before continuing in fight.</p>
+            <p n="5">5. There appeared yet likewiſe one man ſit<g ref="char:EOLhyphen"/>ting upon a horſe, which ſhot himſelf through (as with a piſtoll) and fell backward, and ſo vaniſh<g ref="char:EOLhyphen"/>ed away.</p>
+            <p>Laſtly there appeared a mighty fleet of Ships in the South-weſt, and drove to the South-eaſt, by the Lyon and the Dragon, where the fight was, with a multitude of men aboord the ſhips, with half their bodies to be ſeen above board, which we ſaw perfectly hoyfing up their Sayles, and driving too and fro, and as it were continued all ſtanding ſtill, till the Lyon and the Dragon embraced one another and ſo fell backward, and diſappeared: whereupon there appeared a great cloud which was not there before, and ſo drove away with the wind.</p>
+         </div>
+         <div type="part">
+            <pb n="4" facs="tcp:113651:4"/>
+            <head>In the Counties of <hi>Cambridge, Suffolk</hi> and <hi>Norfolk,</hi> on the 21 day of <hi>May</hi> laſt paſt in the afternoone were ſeene as followeth.</head>
+            <p>ABout <hi>New-Market</hi> in the County of <hi>Cam<g ref="char:EOLhyphen"/>bridg,</hi> there were ſeen by divers honeſt, ſober, &amp; civill perſons, and men of good credit, three men in the Ayre ſtriving, ſtrugling, and tugging toge<g ref="char:EOLhyphen"/>ther, one of them having a drawn Sword in his hand.</p>
+            <p>Betwixt <hi>Newmarket</hi> and <hi>Thetford</hi> in the County of <hi>Norfolk,</hi> there was obſerved a piller or a Cloud to aſcend from the earth, with the bright hilts of a ſword towards the bottom of it, which piller did aſ<g ref="char:EOLhyphen"/>cend in a pyramidall form, and faſhioned it ſelf in<g ref="char:EOLhyphen"/>to the form of a ſpire broach Steeple, and there de<g ref="char:EOLhyphen"/>ſcended alſo out of the skie, the form of a Pike or Lance, with a very ſharp head or point to encoun<g ref="char:EOLhyphen"/>ter with it.</p>
+            <p>Alſo at a diſtance, there appeared another Spear or Lance, with a very accute point out of the Skie, likewiſe, which was ready to interpoſe, but did not engage it ſelfe.</p>
+            <p>The firſt Speare which came down from Heaven point blank, was after a while clean elev<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ted high<g ref="char:EOLhyphen"/>er, and that ſpire or S<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ear which went up from the earth, aſcended after it, to encounter with it a ſe<g ref="char:EOLhyphen"/>cond time.</p>
+            <p>This continued about an houre and a halfe.</p>
+            <p>At <hi>Sopham</hi> in the County of <hi>Cambridge,</hi> a Ball
+<pb n="5" facs="tcp:113651:4"/>of wild-fire fell upon the earth, which burnt and ſpoyled about an Aker of Grain, and when it had rolled and run up and down to the terror of many people, it diſſolved and left a moſt ſulpherous ſtinck behind it.</p>
+            <p>Alſo at <hi>Camberton</hi> in the County aforeſaid, di<g ref="char:EOLhyphen"/>vers of the Trained Bands being met at a muſter, did behold the form of a ſpire Steeple in the Skie, with divers Swords about it.</p>
+            <p>Alſo at <hi>Brandon</hi> in the County of <hi>Norfolk</hi> the inhabitants ran to behold a ſtrange ſpectacle of a ſpire Steeple aſcending up from the earth, and a Pike or Lance deſcending downward from heaven.</p>
+            <p>Alſo at <hi>Brandon</hi> there was ſeen at the ſame time, a Navie or Fleet of ſhips in the ayre, ſwiftly paſ<g ref="char:EOLhyphen"/>ſing under ſaile, with Flags and Streamers hanged out, as if they were ready to give an encounter.</p>
+            <p>In <hi>Marſhland</hi> in the County of <hi>Norfolk,</hi> within three miles of <hi>Kings Linne,</hi> a Captain and a Liev<g ref="char:EOLhyphen"/>tenant, with divers other perſons of credit, did hear in the time of Thunder, a ſound as of a whole Re<g ref="char:EOLhyphen"/>giment of Drums beating a call with perfect notes and ſtops, much admired at of all.</p>
+            <p>And the like Military ſound was heard in <hi>Suffolk</hi> upon the ſame day, and in other parts of the Eaſtern Aſſociation.</p>
+            <p>In all theſe places there was very great Thun<g ref="char:EOLhyphen"/>der, with Raine and Haile-ſtones of extraordinary bigneſſe and round, and ſome hollow within like tings.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
